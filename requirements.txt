@@ -1,0 +1,6 @@
+aiogram
+SQLAlchemy
+psycopg2
+bs4
+requests
+aiogram_calendar
